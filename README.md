@@ -5,3 +5,5 @@ this repository contains
   - note that due to the filesize limitations, the file interaction_data.zip needs to be unziped first
 - notebooks for processing the results analysing low-level and high-level feedback dependencies
 - samples from the user study website (note that the study website cannot be published due to the anonymization, but it will be included after the review period)
+- [requirements.txt](./requirements.txt) file
+- We ran the experiments with Python 3.9.6 but any reasonably new version of Python3 should work fine
